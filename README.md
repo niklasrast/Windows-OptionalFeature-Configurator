@@ -1,4 +1,10 @@
-# SCRIPT NAME
+# Windows Optional FEature Configurator
+
+![GitHub repo size](https://img.shields.io/github/repo-size/niklasrast/Windows-10-OptionalFeature-Configurator)
+
+![GitHub issues](https://img.shields.io/github/issues-raw/niklasrast/Windows-10-OptionalFeature-Configurator)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/niklasrast/Windows-10-OptionalFeature-Configurator)
 
 This repo contains powershell scripts to configure optional windows 10 features on your client.
 
